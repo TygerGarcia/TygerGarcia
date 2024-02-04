@@ -1,3 +1,5 @@
+<img src="https://tenor.com/bEji2.gif" alt="Your GIF">
+
 # Hi there! 👋
 
 I'm Tyger Garcia, a passionate developer who loves to code and fight!
@@ -25,5 +27,5 @@ You can reach out to me on:
 
 Did you know that I can code faster than I can go Super Saiyan? It's true!
 
-<img src="https://tenor.com/bEji2.gif" alt="Your GIF">
+
 
