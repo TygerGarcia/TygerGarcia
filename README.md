@@ -25,4 +25,5 @@ You can reach out to me on:
 
 Did you know that I can code faster than I can go Super Saiyan? It's true!
 
-![Goku Fighting Scene](https://tenor.com/bEji2.gif)
+<img src="https://tenor.com/bEji2.gif" alt="Your GIF">
+
