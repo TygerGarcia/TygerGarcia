@@ -1,17 +1,28 @@
-# Welcome to My GitHub Profile!
-ffmpeg -i https://youtu.be/YG3EhWlBaoI?si=sT7-HVqlJP3xbdIi -vf "fps=10,scale=320:-1:flags=lanczos" -c:v gif output.gif
+# Hi there! 👋
 
+I'm Tyger Garcia, a passionate developer who loves to code and fight!
 
+## 💪 Skills
 
+- Super Saiyan Coding
+- Kamehameha Debugging
+- Instant Transmission Deployment
 
-## About Me
+## 🌟 Projects
 
-I am a programmer with expertise in the following coding languages:
+- Spirit Bomb API: A powerful API that harnesses the energy of the universe to deliver data in an instant.
+- Dragon Radar App: An app that helps you locate the seven Dragon Balls and make your wishes come true.
 
-- HTML
-- Node.js
-- Python
+## 📫 Contact
 
-Feel free to explore my repositories and projects. Don't forget to leave a star if you find something interesting!
+You can reach out to me on:
 
-Happy coding!
+- [Twitter](https:not available)
+- [LinkedIn](not available)
+- [Email](mailto:Austinkitchen28@hotmail.com)
+
+## 🚀 Fun Fact
+
+Did you know that I can code faster than I can go Super Saiyan? It's true!
+
+![Goku Fighting Scene](https://path/to/your/gif.gif)
