@@ -1,4 +1,4 @@
-![Random Anime GIF](https://media.giphy.com/media/{random-anime-gif-id}/giphy.gif)
+![Random Anime GIF](https://giphy.com/gifs/TOEIAnimationUK-dragon-ball-super-broly-toei-animation-hKafco7mFwBioBxqFT)
 
 # Hi there! 👋
 
