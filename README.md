@@ -1,4 +1,4 @@
-![Brolly](https://i.imgur.com/qVV4g5A.mp4)
+![Brolly](https://i.imgur.com/Ru5VDXL.jpg)
 
 # Hi there! 👋
 
