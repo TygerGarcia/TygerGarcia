@@ -1,4 +1,4 @@
-![Goku Fighting GIF](https://tenor.com/bp3mu.gif)
+![Random Anime GIF](https://media.giphy.com/media/{random-anime-gif-id}/giphy.gif)
 
 # Hi there! 👋
 
