@@ -1,4 +1,4 @@
-<img src="https://tenor.com/bEji2.gif" alt="Your GIF">
+![Goku Fighting GIF](https://tenor.com/bEji2.gif)
 
 # Hi there! 👋
 
