@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-<img src="https://media.giphy.com/media/3o7aDcz3uEu9Y8X9nO/giphy.gif" alt="Spotify ">
+<iframe src="https://open.spotify.com/track/4GJ8qbGQ455O65r4pkcwAN?si=zEoOpOUsQ9yq9xNe5FE4bw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 
