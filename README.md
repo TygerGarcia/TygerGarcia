@@ -1,4 +1,4 @@
-![Goku Fighting GIF](img=https://tenor.com/bp3mu.gif)
+![Goku Fighting GIF](https://tenor.com/bp3mu.gif)
 
 # Hi there! 👋
 
