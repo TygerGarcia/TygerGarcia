@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile!
 
-[![Watch the video](https://img.youtube.com/vi/{video_id}/0.jpg)](https://www.youtube.com/watch?v={video_id})
+<img src="https://media.giphy.com/media/3o7aDcz3uEu9Y8X9nO/giphy.gif" alt="Spotify GIF">
+
+<iframe src="https://open.spotify.com/embed/track/4uLU6hMCjMI75M1A2tKUQC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## About Me
 
