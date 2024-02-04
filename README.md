@@ -1,4 +1,4 @@
-![Random Anime GIF](https://giphy.com/gifs/TOEIAnimationUK-dragon-ball-super-broly-toei-animation-hKafco7mFwBioBxqFT)
+![Random Anime GIF](https://telegra.ph/file/c4f24fb2159d3c30ec64f.mp4)
 
 # Hi there! 👋
 
@@ -20,7 +20,7 @@ I'm Tyger Garcia, a passionate developer who loves to code and fight!
 You can reach out to me on:
 
 - [Twitter](https:not available)
-- [LinkedIn](not available)
+- [LinkedIn](not available) 
 - [Email](mailto:Austinkitchen28@hotmail.com)
 
 ## 🚀 Fun Fact
