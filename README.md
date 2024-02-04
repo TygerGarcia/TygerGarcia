@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
+ffmpeg -i https://youtu.be/YG3EhWlBaoI?si=sT7-HVqlJP3xbdIi -vf "fps=10,scale=320:-1:flags=lanczos" -c:v gif output.gif
 
-<iframe src="https://open.spotify.com/track/4GJ8qbGQ455O65r4pkcwAN?si=zEoOpOUsQ9yq9xNe5FE4bw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 
