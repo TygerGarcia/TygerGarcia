@@ -1,4 +1,4 @@
-![Random Anime GIF](https://telegra.ph/file/c4f24fb2159d3c30ec64f.mp4)
+![Brolly](https://i.imgur.com/Ru5VDXL.jpg)
 
 # Hi there! 👋
 
@@ -13,8 +13,7 @@ I'm Tyger Garcia, a passionate developer who loves to code and fight!
 ## 🌟 Projects
 
 - Spirit Bomb API: A powerful API that harnesses the energy of the universe to deliver data in an instant.
-- Dragon Radar App: An app that helps you locate the seven Dragon Balls and make your wishes come true.
-
+- Dragon Radar App: An app that helps you locate the seven Dragon Balls and make your wishes come 
 ## 📫 Contact
 
 You can reach out to me on:
